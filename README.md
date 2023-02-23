@@ -36,6 +36,7 @@ function inicio()
     //.rum no vscode
     //pra declara uma variavel basta ${variavel}
     //se tiver () do lado de uma palavra normalmente é funcao
+    //retorna valor com ()
 }
 
 
